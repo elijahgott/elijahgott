@@ -7,7 +7,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/elijah-gott/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://icons8.com/icon/8808/linkedin](https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/elijah-gott/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 <br/>
