@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Skills / Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,java,js,c,cpp,cs,css,html,debian,godot,mongodb,mysql,nodejs,npm,react,tailwind&perline=5 />
+  </a>
+</p>
+
 <!--
 **elijahgott/elijahgott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
