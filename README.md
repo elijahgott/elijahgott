@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="left">I am Elijah, an aspiring Junior Software Developer. My passion is in creating beautiful apps and websites, which is why my focus has mainly been on front-end web development. However, I have stepped into the realm of game development and backend development.</p>
+<p align="left">I am Elijah, an aspiring Junior Software Developer. My passion is in creating beautiful apps and websites, which is why my focus has mainly been on front-end web development. I have been learning more about backend development as well, in an effort to become a full-stack developer.</p>
 <p align="left">I graduated with a B.Sc in Computer Science in 2024, and ever since then I have been diving deeper into various technologies and languages to expand my skill set and knowledge.</p>
 
 <h2 align="center">Skills / Technologies</h2>
