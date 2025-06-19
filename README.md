@@ -1,8 +1,12 @@
 ## Hi there 👋
+<p align="center">I am an aspiring Junior Software Developer. My passion is creating apps and projects that I can be proud of, but my focus has mainly been on web development.</p>
+<p align="center">I graduated with a B.Sc in Computer Science in 2024, and ever since then I have been diving deeper into various technologies and languages in an effort to expand my skillset and knowledge.</p>
 
 ### Skills / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=agit,github,java,js,c,cpp,cs,css,html,debian,godot,mongodb,mysql,nodejs,npm,react,tailwind&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,java,js,c,cpp,cs,css,html,debian,godot,mongodb,mysql,nodejs,npm,react,tailwind&perline=7)](https://skillicons.dev)
+
+[![OS](https://skillicons.dev/icons?i=windows,linux,debian)](https://skillicons.dev)
 
 <!--
 **elijahgott/elijahgott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
