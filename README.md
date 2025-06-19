@@ -3,10 +3,14 @@
 <p align="center">I graduated with a B.Sc in Computer Science in 2024, and ever since then I have been diving deeper into various technologies and languages in an effort to expand my skillset and knowledge.</p>
 
 ### Skills / Technologies
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=git,github,java,js,c,cpp,cs,css,html,debian,godot,mongodb,mysql,nodejs,npm,react,tailwind&perline=7)](https://skillicons.dev)
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,java,js,c,cpp,cs,css,html,debian,godot,mongodb,mysql,nodejs,npm,react,tailwind&perline=7)](https://skillicons.dev)
-
-[![OS](https://skillicons.dev/icons?i=windows,linux,debian)](https://skillicons.dev)
+### Operating Systems
+<p align="center">
+  [![OS](https://skillicons.dev/icons?i=windows,linux,debian)](https://skillicons.dev)
+</p>
 
 <!--
 **elijahgott/elijahgott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
