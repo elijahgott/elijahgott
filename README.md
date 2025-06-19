@@ -4,12 +4,16 @@
 
 <h2 align="center">Skills / Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,js,c,cpp,cs,css,html,debian,mongodb,mysql,nodejs,npm,react,tailwind&perline=4" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,java,js,c,cpp,cs,css,html,debian,mongodb,mysql,nodejs,npm,react,tailwind&perline=4" />
+  </a>
 </p>
 
 <h2 align="center">Operating Systems</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,debian" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,debian" />
+  </a>
 </p>
 
 <!--
